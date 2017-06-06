@@ -1,0 +1,5 @@
+在本地建立FTP站点（需要关闭防火墙）
+http://blog.csdn.net/u011449588/article/details/41842071
+FTP传输的基本知识点
+https://livc.io/105
+http://tanxin.blog.51cto.com/6114226/1255527
